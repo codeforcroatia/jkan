@@ -2,7 +2,8 @@
 schema: default
 title: Imovina Grada Zagreba
 organization: Grad Zagreb
-notes: Gradski ured za upravljanje imovinom Grada obavlja poslove koji se odnose na: upravljanje i raspolaganje nekretninama, pokretninama i pravima u vlasništvu Grada, vlasništvo i druga stvarna prava, otkup, stjecanje i prodaju zemljišta, stanova i poslovnih prostora i drugih nekretnina i pokretnina za potrebe uređenja građevinskog zemljišta, razvojne, socijalne i druge projekte Grada, davanje u najam, zakup i održavanje stanova, poslovnih prostora i neizgrađenog građevinskog zemljišta, uređivanje vlasničko - pravnih odnosa, evidenciju imovine te na druge poslove koji su mu stavljeni u nadležnost.
+notes: >-
+  Gradski ured za upravljanje imovinom Grada obavlja poslove koji se odnose na: upravljanje i raspolaganje nekretninama, pokretninama i pravima u vlasništvu Grada, vlasništvo i druga stvarna prava, otkup, stjecanje i prodaju zemljišta, stanova i poslovnih prostora i drugih nekretnina i pokretnina za potrebe uređenja građevinskog zemljišta, razvojne, socijalne i druge projekte Grada, davanje u najam, zakup i održavanje stanova, poslovnih prostora i neizgrađenog građevinskog zemljišta, uređivanje vlasničko - pravnih odnosa, evidenciju imovine te na druge poslove koji su mu stavljeni u nadležnost.
 resources:
   - name: '1. KORISNICI STANOVA BEZ VALJANE PRAVNE OSNOVE - 2019. godina'
     url: >-
