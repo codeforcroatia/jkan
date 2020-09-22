@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Redovno financiranje stranaka
-organization: Državno izborno povjerenstvo
+organization: 'Državno izborno povjerenstvo'
 notes: Redovno financiranje stranaka
 resources:
   - name: 'Redovno financiranje stranaka - 2019 polugodište'

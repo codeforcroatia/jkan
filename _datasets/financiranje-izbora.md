@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Financiranje izborne promidžbe
-organization: Državno izborno povjerenstvo
+organization: 'Državno izborno povjerenstvo'
 notes: Financiranje izborne promidžbe uključujući IZBORI ZA PREDSJEDNIKA RH 2019., IZBORI ZA ZASTUPNIKE U HRVATSKI SABOR 2020. Datasetove o financiranjima stranaka u otvorenom obliku je prikupio i pruža Gong.
 resources:
   - name: 'Predsjednički izbori 2019. - donacije (30 dana)'
