@@ -37,6 +37,6 @@
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.21",
     "notie": "github:timwis/notie#string-types",
-    "select2": "^4.0.2"
+    "select2": "^4.0.6"
   }
 }
