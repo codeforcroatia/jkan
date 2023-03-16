@@ -3,5 +3,5 @@ schema: default
 title: Državni zavod za statistiku
 description: ''
 slug: dzs
-logo: 'https://www.dzs.hr/favicon.ico'
+logo: 'https://logosave.com/images/large/common/02/drzavni-zavod-za-statistiku-republike-hrvatske.png'
 ---
